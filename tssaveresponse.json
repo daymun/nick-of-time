@@ -1,0 +1,5 @@
+{
+  "timekey": "{{time.key}}",
+  "haserror": {{haserror}},
+  "message": "{{message}}"
+}
